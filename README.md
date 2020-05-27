@@ -17,13 +17,16 @@ I like to think out loud about design, development, and building products.
 Small just-for-fun weekend projects I've been tinkering with.
 
 [AMA](https://brianlovin.com/ama) - ask me anything!
+
 [Bookmarks](https://brianlovin.com/bookmarks) - my place to save and take notes on cool internet finds.
+
 [HN](https://brianlovin.com/hn) - a better version of HN.
 
 ### Design Details Podcast
 Design Details is a weekly conversation about design process and culture. I’ve been a co-host on the show for over five years.
 
 [Check out the podcast &rarr;](https://designdetails.fm/episodes)
+
 [See the site code &rarr;](https://github.com/specfm/design-details)
 
 ### Figma plugins
